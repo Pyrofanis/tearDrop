@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 809ec509ffaffef4f822ad2e746cafc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2180933100576884672
+    second: smokingStand4_0
+  - first:
+      213: -8670125321210287541
+    second: smokingStand4_1
+  - first:
+      213: -8108825336847687482
+    second: smokingStand4_2
+  - first:
+      213: 2161688249574401470
+    second: smokingStand4_3
+  - first:
+      213: -4066091098779496943
+    second: smokingStand4_4
+  - first:
+      213: 6395013588765127245
+    second: smokingStand4_5
+  - first:
+      213: -118752030738548035
+    second: smokingStand4_6
+  - first:
+      213: 4060485913602730246
+    second: smokingStand4_7
+  - first:
+      213: -3507399160701595393
+    second: smokingStand4_8
+  - first:
+      213: 1976952431545613853
+    second: smokingStand4_9
+  - first:
+      213: -7634022453005958836
+    second: smokingStand4_10
+  - first:
+      213: 1228804415852337749
+    second: smokingStand4_11
+  - first:
+      213: 6468395026453387630
+    second: smokingStand4_12
+  - first:
+      213: 221930870611309869
+    second: smokingStand4_13
+  - first:
+      213: 4599492290849944837
+    second: smokingStand4_14
+  - first:
+      213: -5257755562418273483
+    second: smokingStand4_15
+  - first:
+      213: -6320814127112959820
+    second: smokingStand4_16
+  - first:
+      213: 7271304311553314113
+    second: smokingStand4_17
+  - first:
+      213: 5960350596069472915
+    second: smokingStand4_18
+  - first:
+      213: 921329010119508479
+    second: smokingStand4_19
+  - first:
+      213: -4896109924592873644
+    second: smokingStand4_20
+  - first:
+      213: 7170993336145371019
+    second: smokingStand4_21
+  - first:
+      213: -3045447947078825038
+    second: smokingStand4_22
+  - first:
+      213: -6451351213526321827
+    second: smokingStand4_23
+  - first:
+      213: -7934484395476165713
+    second: smokingStand4_24
+  - first:
+      213: -1886267770983732777
+    second: smokingStand4_25
+  - first:
+      213: -8206495746011300133
+    second: smokingStand4_26
+  - first:
+      213: -4480625323021818675
+    second: smokingStand4_27
+  - first:
+      213: -8031265524315079240
+    second: smokingStand4_28
+  - first:
+      213: 2759494828661885858
+    second: smokingStand4_29
+  - first:
+      213: -4608283584744509437
+    second: smokingStand4_30
+  - first:
+      213: -3065660385425542225
+    second: smokingStand4_31
+  - first:
+      213: -6311172921304175415
+    second: smokingStand4_32
+  - first:
+      213: 6904019364592996481
+    second: smokingStand4_33
+  - first:
+      213: -2532954967535397553
+    second: smokingStand4_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smokingStand4_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67134694e92bdb4cbd0cecc1d0a98ee
+      internalID: -2180933100576884672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 15
+        width: 76
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beaed5d6428edf4ba561f7bc26f4333
+      internalID: -8670125321210287541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 17
+        width: 78
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d1afbfa14945499c9ccdb739484da
+      internalID: -8108825336847687482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 78
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f687db7745607d4b82923f16f87eedb
+      internalID: 2161688249574401470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 15
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2865b5f1667b949b7926d9f46a11c7
+      internalID: -4066091098779496943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 78
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e65e84bd41165498bc0ab42bfa98d2
+      internalID: 6395013588765127245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 15
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d69c467559fbf429ffee68c2708a89
+      internalID: -118752030738548035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 17
+        width: 84
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d139448877f6834e97d70672be17a29
+      internalID: 4060485913602730246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 85
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402422e4bd178bb4c881be8e5bd6aeb1
+      internalID: -3507399160701595393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_9
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 85
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46e1f8b309f6442a3d1864a6515b21
+      internalID: 1976952431545613853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_10
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 84
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a99412a182d954c9141e7732ad68ed
+      internalID: -7634022453005958836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 15
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f823cb59fe8849b3a975f3c4f8b55
+      internalID: 1228804415852337749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_12
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 17
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71f59d6d482a7428f137280a46da2e
+      internalID: 6468395026453387630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_13
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 15
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26159331dcca5484aa913af683788902
+      internalID: 221930870611309869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_14
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 13
+        width: 78
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53b449c7df12d45ba5311235feaf28
+      internalID: 4599492290849944837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_15
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b493f602d739924d8c4a66a3531c9fb
+      internalID: -5257755562418273483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_16
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 5
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b829b29d36567488b4e7b387d5c1b5
+      internalID: -6320814127112959820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_17
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 9
+        width: 93
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c77323e0427aa45ab530ff2498e7a0
+      internalID: 7271304311553314113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_18
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 9
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072679d61e4a7c408debc1f4d491d87
+      internalID: 5960350596069472915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_19
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 7
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f38d78e19d0eee44b2647b443b1db27
+      internalID: 921329010119508479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_20
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 9
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b275b6df5a8ec418acff6bb0cddbbb
+      internalID: -4896109924592873644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_21
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 9
+        width: 81
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2abeaff23906746b99ef347188e54e
+      internalID: 7170993336145371019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_22
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 9
+        width: 76
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8fa77dd3bd78b4e936f56dac633cc4
+      internalID: -3045447947078825038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_23
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 7
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4542d19cfad53745baabb820732b539
+      internalID: -6451351213526321827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_24
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 9
+        width: 74
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3580ca73c9bf3498260e71f00b706c
+      internalID: -7934484395476165713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_25
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 17
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa2a4fe1a4d6540a64a9f1758f40b8
+      internalID: -1886267770983732777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_26
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 0
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c84b239e6a3224f9601e3f62ffa7f0
+      internalID: -8206495746011300133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_27
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 11
+        width: 89
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b2a915f83e7346860d5017abc3be3
+      internalID: -4480625323021818675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_28
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 7
+        width: 91
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ac9d55d8b31446b06336a0a842ffb
+      internalID: -8031265524315079240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_29
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 11
+        width: 78
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5d489c96f04441b500b1440452bbb
+      internalID: 2759494828661885858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_30
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 9
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafca40a34a5e504ba19ca3e07886d1a
+      internalID: -4608283584744509437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_31
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 7
+        width: 86
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb8a105d13be349ac8c3379f1f9193
+      internalID: -3065660385425542225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_32
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 6
+        width: 83
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b26003c02df5b4f952de482c097d1d
+      internalID: -6311172921304175415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_33
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 5
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d5d80a637dcd45a881c3247f73973
+      internalID: 6904019364592996481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smokingStand4_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 78
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50798c1a0d5eac84d993a45887f1bb48
+      internalID: -2532954967535397553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
